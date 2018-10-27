@@ -70,8 +70,10 @@ If you have enumerables of ``float``, ``decimal`` or ``double`` types then you c
 .. literalinclude:: /../src/DocumentationExamples/CodeExamples/ShouldBeExamples/EnumerablesOfNumerics.exceptionText.approved.txt
 
 
-Bools
+Booleans
 -----
+Instead, it's best to use ``ShouldBeTrue()`` or ``ShouldBeFalse()`` respectively.
+
 .. literalinclude:: /../src/DocumentationExamples/CodeExamples/ShouldBeExamples/BooleanExample.codeSample.approved.txt
 	:language: c#
 
