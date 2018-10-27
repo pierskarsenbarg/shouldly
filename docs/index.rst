@@ -60,6 +60,7 @@ Shouldly has plenty of different assertions, have a look under the assertions fo
    assertions/shouldBeTrueFalse
    assertions/shouldBeNullShouldNotBeNull
    assertions/shouldHaveFlagNotHaveFlag
+   assertions/shouldBeGreaterThanLessThan
    exampleClasses
    contributing
    configuration
